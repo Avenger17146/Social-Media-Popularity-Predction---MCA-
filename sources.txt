@@ -1,0 +1,2 @@
+1. https://github.com/DeepRNN/image_captioning
+2. https://github.com/motefly/DeepGBM
