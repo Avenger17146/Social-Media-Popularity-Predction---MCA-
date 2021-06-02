@@ -2,7 +2,7 @@ pandas==1.0.1
 numpy==1.18.1
 Pillow==7.0.0
 flickrapi==2.4.0
-urllib3==1.25.8
+urllib3==1.26.5
 LightGBM==2.2.1
 torch==0.4.1
 scikit-image==0.16.2
