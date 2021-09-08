@@ -1,6 +1,6 @@
 pandas==1.0.1
 numpy==1.18.1
-Pillow==7.0.0
+Pillow==8.3.2
 flickrapi==2.4.0
 urllib3==1.25.8
 LightGBM==2.2.1
